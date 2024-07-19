@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# math-study-notes
+<Math for Programmers> study-notes
